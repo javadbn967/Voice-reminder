@@ -4,6 +4,13 @@ A smart, lightweight voice-powered reminder app built with **HTML**, **TailwindC
 It supports **Speech Recognition**, **multilingual interface (English & Persian)**, and **localStorage** for saving reminders permanently in your browser.
 
 ---
+<img src="result.png" alt="EyeYOLO Demo" width="600"/>
+
+## 📸 Demo Preview
+
+> 🔗 [Live Demo](voice-reminder.netlify.app)  
+> 🔗 [GitHub Repo](https://github.com/your-username/your-repo)
+
 
 ## 🚀 Features
 
@@ -14,14 +21,6 @@ It supports **Speech Recognition**, **multilingual interface (English & Persian)
 - ⌨️ Add reminders by typing or speaking
 - 🗑️ Delete reminders easily
 
-
-<img src="result.png" alt="EyeYOLO Demo" width="600"/>
-
-## 📸 Demo Preview
-
-
-> 🔗 [Live Demo](voice-reminder.netlify.app)  
-> 🔗 [GitHub Repo](https://github.com/your-username/your-repo)
 
 
 
