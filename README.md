@@ -20,7 +20,7 @@ It supports **Speech Recognition**, **multilingual interface (English & Persian)
 ## 📸 Demo Preview
 
 
-> 🔗 [Live Demo](https://your-live-demo-link.com)  
+> 🔗 [Live Demo](voice-reminder.netlify.app)  
 > 🔗 [GitHub Repo](https://github.com/your-username/your-repo)
 
 
